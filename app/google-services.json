@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295007803656",
+    "project_id": "database-ppapb-13-abbff",
+    "storage_bucket": "database-ppapb-13-abbff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295007803656:android:3d8831e8c1379f162574bd",
+        "android_client_info": {
+          "package_name": "com.example.crudroom2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEAlI_RujyxSHTP6TwCluySHYT76JiPxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
